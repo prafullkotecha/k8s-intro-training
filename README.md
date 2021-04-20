@@ -1,4 +1,6 @@
 # Training Guide
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fprafullkotecha%2Fk8s-intro-training.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fprafullkotecha%2Fk8s-intro-training?ref=badge_shield)
+
 
 ## Kubernetes Options
 
@@ -243,3 +245,7 @@ Remember Kustomize? We'll use it now.
 
 - Show the kustomization files and how they work together
 - Deploy with Fleet: `https://github.com/rancher/k8s-intro-training` with the `deployment` folder
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fprafullkotecha%2Fk8s-intro-training.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fprafullkotecha%2Fk8s-intro-training?ref=badge_large)
